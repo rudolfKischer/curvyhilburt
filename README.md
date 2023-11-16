@@ -15,9 +15,9 @@
 
 # Setup
 
-- Clone the repo
+- Clone the repo `git clone https://github.com/rudolfKischer/curvyhilburt.git`
 - Make sure python3 is installad on your system
-- navigate to the repo `cd curvyHilburt`
+- navigate to the repo `cd curvyhilburt`
 - run the setup script
     - Mac/Linux: `python3 setup.py`
     - Windows: `py setup.py`
